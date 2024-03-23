@@ -7,3 +7,5 @@
 * Let's connect on Linkedin: https://www.linkedin.com/in/sonia-pires-467625184/
 
 ![picture of me](_MG_1247.jpg)
+
+<img src="_MG_1247.jpg" width="200">
