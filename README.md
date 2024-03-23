@@ -6,4 +6,4 @@
 * I like walks in nature and interesting chats
 * Let's connect on Linkedin: https://www.linkedin.com/in/sonia-pires-467625184/
 <img src="_MG_1247.jpg" width="200">
-`#0969DA`
+
