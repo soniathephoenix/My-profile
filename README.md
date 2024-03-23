@@ -4,4 +4,5 @@
 * I'm a big fan of exercise and eating healthy
 * My preferred musical instrument is the piano
 * I like walks in nature and interesting chats
+* Let's connect on Linkedin: https://www.linkedin.com/in/sonia-pires-467625184/
 
